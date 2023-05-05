@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <title>
-          ZaloPay Dynamic QR payment integration demo
+          ZaloPay Payment Gateway integration demo
         </title>
         <meta
           name="description"

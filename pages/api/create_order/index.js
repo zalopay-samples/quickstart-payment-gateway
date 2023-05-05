@@ -50,7 +50,6 @@ export default async function handler(req, res) {
     const data = [configZLP.app_id, order.app_trans_id, order.app_user, order.amount, order.app_time, order.embed_data, order.item].join("|");
     order.mac = CryptoJS.HmacSHA256(data, configZLP.key1).toString();
 
-    console.log(order)
     axios.post(configZLP.endpoint + 'create', null, { params: order })
       .then(result => {
         console.log(result.data)
