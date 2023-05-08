@@ -18,7 +18,7 @@
 
 This repository includes examples of integrations for online payments with ZaloPay Payment Gateway. Within this demo app, you'll find a simplified version of an e-commerce website, complete with commented code to highlight key features and concepts of ZaloPay's API.
 
-![Card checkout demo](public/images/demo-qrscan.gif)
+![Card checkout demo](public/images/checkout-demo.gif)
 
 ## Requirements
 
