@@ -48,7 +48,8 @@ const Cart = () => {
   const onPay = async () => {
     setLoading(true);
     const res = await axios.post("/api/create_order", {
-      paymentType: paymentType === "ATM" && selectedBank !== "" ? selectedBank : paymentType
+      paymentType: paymentType === "ATM" && selectedBank !== "" ? selectedBank : paymentType,
+      amount: totalPrice
     });
     router.push(res.data.url);
     setLoading(false);

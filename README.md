@@ -16,7 +16,7 @@
 
 ## Overview
 
-This repository includes examples of integrations for online payments with ZaloPay [Payment Gateway](https://docs.zalopay.vn/v2/payments/gateway/overview.html). Within this demo app, you'll find a simplified version of an e-commerce website, complete with commented code to highlight key features and concepts of ZaloPay's API.
+This repository includes examples of integrations for online payments with ZaloPay Payment Gateway. Within this demo app, you'll find a simplified version of an e-commerce website, complete with commented code to highlight key features and concepts of ZaloPay's API.
 
 ![Card checkout demo](public/images/demo-qrscan.gif)
 
@@ -28,13 +28,13 @@ Node.js 16+
 
 1. Clone this repo:
 
-```
+```sh
 git clone 
 ```
 
 2. Navigate to the root directory and install dependencies:
 
-```
+```sh
 npm install
 ```
 
@@ -68,7 +68,7 @@ This example doesn't include the callback when run at localhost, see how to inte
 ### Callback testing
 
 Callback (a.k.a Webhook) is a mechanism to deliver Instant Payment Notification asynchronously for Merchant Server receives payment's results from ZaloPay Server, only when ZaloPay has received money from user successfully, and it is important to test them during the setup of your integration.
-You can find more information about callbacks in [here](https://docs.zalopay.vn/en/v2/general/overview.html#callback).
+You can find more information about callbacks in [here](https://beta-docs.zalopay.vn/docs/developer-tools/knowledge-base/callback).
 
 This sample application provides a simple callbacks integration exposed at `/api/callback`. For it to work, you need to:
 
@@ -83,7 +83,7 @@ There are typically many options, in this example we can expose your localhost w
 
 If you use a tunneling service like [ngrok](ngrok) the webhook URL will be the generated URL (ie `https://c991-80-113-16-28.ngrok.io`)
 
-```bash
+```sh
   $ ngrok http 3000
   
   Session Status                online                                                                                           
