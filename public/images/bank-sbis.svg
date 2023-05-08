@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="23px" viewBox="0 0 24 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>bank-sbis</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="36" height="36"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bank-sbis" transform="translate(-6.000000, -7.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g id="temple" mask="url(#mask-2)">
+                <g transform="translate(6.000000, 7.000000)">
+                    <rect id="Rectangle" fill="#B3B3B3" x="2.60869565" y="8.86956522" width="3.13043478" height="13.5652174"></rect>
+                    <rect id="Rectangle" fill="#B3B3B3" x="7.82608696" y="8.86956522" width="3.13043478" height="13.5652174"></rect>
+                    <rect id="Rectangle" fill="#B3B3B3" x="13.0434783" y="8.86956522" width="3.13043478" height="13.5652174"></rect>
+                    <rect id="Rectangle" fill="#B3B3B3" x="18.2608696" y="8.86956522" width="3.13043478" height="13.5652174"></rect>
+                    <path d="M23.7281739,6.32455826 L12.249913,0.0636886957 C12.0940017,-0.0208904348 11.905993,-0.0208904348 11.7500817,0.0636886957 L0.27182087,6.32455826 C0.104196522,6.41576348 0,6.59154261 0,6.7826087 L0,9.91304348 C0,10.2014243 0.233608696,10.4347826 0.52173913,10.4347826 L23.4782609,10.4347826 C23.7663913,10.4347826 24,10.2014243 24,9.91304348 L24,6.7826087 C24,6.59154261 23.8958035,6.41576348 23.7281739,6.32455826 Z" id="Path" fill="#E6E6E6"></path>
+                    <path d="M23.4782609,20.8695652 L0.52173913,20.8695652 C0.233608696,20.8695652 0,21.1029235 0,21.3913043 L0,22.4347826 C0,22.7231635 0.233608696,22.9565217 0.52173913,22.9565217 L23.4782609,22.9565217 C23.7663913,22.9565217 24,22.7231635 24,22.4347826 L24,21.3913043 C24,21.1029235 23.7663913,20.8695652 23.4782609,20.8695652 Z" id="Path" fill="#E6E6E6"></path>
+                    <circle id="Oval" fill="#B3B3B3" cx="12" cy="5.73913043" r="2.08695652"></circle>
+                    <polygon id="Rectangle" fill="#939393" transform="translate(4.173913, 11.217391) rotate(-90.000000) translate(-4.173913, -11.217391) " points="3.39130435 9.65217391 4.95652174 9.65217391 4.95652174 12.7826087 3.39130435 12.7826087"></polygon>
+                    <polygon id="Rectangle" fill="#939393" transform="translate(9.391304, 11.217391) rotate(-90.000000) translate(-9.391304, -11.217391) " points="8.60869565 9.65217391 10.173913 9.65217391 10.173913 12.7826087 8.60869565 12.7826087"></polygon>
+                    <polygon id="Rectangle" fill="#939393" transform="translate(14.608696, 11.217391) rotate(-90.000000) translate(-14.608696, -11.217391) " points="13.826087 9.65217391 15.3913043 9.65217391 15.3913043 12.7826087 13.826087 12.7826087"></polygon>
+                    <polygon id="Rectangle" fill="#939393" transform="translate(19.826087, 11.217391) rotate(-90.000000) translate(-19.826087, -11.217391) " points="19.0434783 9.65217391 20.6086957 9.65217391 20.6086957 12.7826087 19.0434783 12.7826087"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
