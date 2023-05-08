@@ -8,7 +8,7 @@ import { configZLP } from "pages/api/config";
 
 const { Paragraph } = Typography;
 
-const Callback = () => {
+const Result = () => {
   const [secondsToGo, setSecondsToGo] = useState(60); // 1m - 15m timeout
   const router = useRouter();
   const { apptransid, appid, pmcid, bankcode, amount, discountamount, status, checksum } = router.query
@@ -82,4 +82,4 @@ const Callback = () => {
   );
 };
 
-export default Callback;
+export default Result;
