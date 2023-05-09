@@ -49,7 +49,7 @@ ZLP_MERCHANT_KEY2="your_key2_here"
 ZLP_MERCHANT_ENDPOINT="zalopay_merchant_endpoint_here"
 ```
 
-Note: We have already configured this our sample application information. You can skip this one and jump to the next step.
+Note: We have already configured this with our sample application information. You can skip this one and jump to the next step.
 
 1. Build & Start the server:
 
