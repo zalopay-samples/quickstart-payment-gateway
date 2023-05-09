@@ -49,6 +49,8 @@ ZLP_MERCHANT_KEY2="your_key2_here"
 ZLP_MERCHANT_ENDPOINT="zalopay_merchant_endpoint_here"
 ```
 
+Note: We have already configured this with our sample application information. You can skip this one and jump to the next step.
+
 2. Build & Start the server:
 
 ```sh
@@ -57,7 +59,7 @@ npm run dev
 
 3. Visit [http://localhost:3000/](http://localhost:3000/) to select an integration type.
 
-To try out payment you need either install and register ZaloPay Sanbox or some test cards information, see [Trải nghiệm với ZaloPay](https://docs.zalopay.vn/v2/start/#A) and [Test card](https://docs.zalopay.vn/v2/start/#A-III).
+To try out payment you need either install and register ZaloPay Sanbox or some test cards information, see [Experiment with ZaloPay](https://docs.zalopay.vn/v2/start/#A) and [Test card](https://docs.zalopay.vn/v2/start/#A-III).
 
 **Note**
 
