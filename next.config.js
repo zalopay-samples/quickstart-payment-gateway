@@ -15,7 +15,7 @@ module.exports = (phase) => {
     ZLP_MERCHANT_CALLBACK_URL: 'https://7f30-1-53-255-145.ngrok-free.app/api/callback',
     ZLP_REDIRECT_URL: (() => {
       // For prod env
-      if (isProd) return "https://zalopay-payment-gateway-example.vercel.app/result"
+      if (isProd) return "https://zalopay-payment-gateway.vercel.app/result"
       // For local env
       return "http://localhost:3000/result"
     })(),
