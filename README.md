@@ -47,6 +47,8 @@ ZLP_MERCHANT_APP_ID="your_app_id_here"
 ZLP_MERCHANT_KEY1="your_key1_here"
 ZLP_MERCHANT_KEY2="your_key2_here"
 ZLP_MERCHANT_ENDPOINT="zalopay_merchant_endpoint_here"
+ZLP_MERCHANT_GATEWAY_ENDPOINT="zalopay_merchant_gateway_endpoint_here"
+ZLP_REDIRECT_URL="your_url_that_gateway_will_redirect"
 ```
 
 Note: We have already configured this with our sample application information. You can skip this one and jump to the next step.

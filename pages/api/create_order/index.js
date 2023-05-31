@@ -13,7 +13,7 @@ export default async function handler(req, res) {
   try {
     const paymentType = req.body.paymentType
     const amount = req.body.amount
-    let embed_data = { redirecturl: "http://localhost:3000/result" };
+    let embed_data = { redirecturl: configZLP.redirect_url};
     const items = [{}]; // todo: collect items from Cart page
     const transID = Math.floor(Math.random() * 1000000);
     const appTransID = `${moment().format('YYMMDD')}_${transID}`;
