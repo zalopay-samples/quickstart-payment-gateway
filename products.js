@@ -2,7 +2,7 @@ const products = [
   {
     id: 'price_1JAE9cEy9j6mAC9ettoD2R0D',
     name: 'Kentiapalm (L)',
-    price: 3995,
+    price: 39950,
     currency: 'VND',
     image: '/plants/kentiapalm.png',
     rating: {
@@ -13,7 +13,7 @@ const products = [
   {
     id: 'price_1JAEABEy9j6mAC9eYTnD6Rv7',
     name: 'Monstera Deliciosa (L)',
-    price: 5995,
+    price: 59950,
     currency: 'VND',
     image: '/plants/monstera-deliciosa.png',
     rating: {
@@ -24,7 +24,7 @@ const products = [
   {
     id: 'price_1JAEAjEy9j6mAC9e1jK4nxds',
     name: 'Alocasia Zebrina',
-    price: 2995,
+    price: 29950,
     currency: 'VND',
     image: '/plants/alocasia-zebrina.png',
     rating: {
@@ -35,7 +35,7 @@ const products = [
   {
     id: 'price_1JAEBeEy9j6mAC9ewOgehqP6',
     name: 'Cactus Euphorbia (L)',
-    price: 4995,
+    price: 49950,
     currency: 'VND',
     image: '/plants/euphorbia.png',
     rating: {
@@ -46,7 +46,7 @@ const products = [
   {
     id: 'price_1JAEBxEy9j6mAC9eJFypGxjc',
     name: 'Calathea Orbifolia',
-    price: 2995,
+    price: 29950,
     currency: 'VND',
     image: '/plants/calathea-orbifolia.png',
     rating: {
@@ -57,7 +57,7 @@ const products = [
   {
     id: 'price_1JAECJEy9j6mAC9epK9RoNwV',
     name: 'Calathea Medallion',
-    price: 2995,
+    price: 29950,
     currency: 'VND',
     image: '/plants/calathea-medallion.png',
     rating: {
@@ -68,7 +68,7 @@ const products = [
   {
     id: 'price_1JAECWEy9j6mAC9eapjaRm9M',
     name: 'Calathea Ornata',
-    price: 2995,
+    price: 29950,
     currency: 'VND',
     image: '/plants/calathea-ornata.png',
     rating: {
@@ -79,7 +79,7 @@ const products = [
   {
     id: 'price_1JAECpEy9j6mAC9etXk35nRL',
     name: 'Zamioculcas (L)',
-    price: 3995,
+    price: 39950,
     currency: 'VND',
     image: '/plants/zamioculcas.png',
     rating: {
